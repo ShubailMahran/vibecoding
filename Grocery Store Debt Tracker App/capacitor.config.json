@@ -1,0 +1,6 @@
+{
+  "appId": "com.grocerystore.debttracker",
+  "appName": "Grocery Debt Tracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
